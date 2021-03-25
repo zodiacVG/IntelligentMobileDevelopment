@@ -114,6 +114,7 @@
         android:layout_marginLeft="8dp"
         android:layout_marginTop="82dp"
         android:backgroundTint="@drawable/button_colors_selector"
+        android:onClick="zeroCount"
         android:text="@string/button_label_zero"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
