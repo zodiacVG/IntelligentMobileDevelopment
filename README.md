@@ -10,3 +10,8 @@ Lab1  [Finished]
 Lab2 [Finished]
 --------
 **File**:[截图](https://github.com/zodiacVG/IntelligentMobileDevelopment/tree/master/lab2/%E6%88%AA%E5%9B%BE)
+
+
+Lab3 [Finished]
+--------
+**File**:[截图以及演示视频](https://github.com/zodiacVG/IntelligentMobileDevelopment/tree/master/lab3)
