@@ -4,14 +4,14 @@ This is my repository for IMD course
 
 Lab1  [Finished]
 --------
-**File**:[flutter.md](https://github.com/zodiacVG/IntelligentMobileDevelopment/blob/master/flutter.md)  
+📁**File**:lab1 [flutter.md](https://github.com/zodiacVG/IntelligentMobileDevelopment/blob/4149b1ad600434df3a429a8712a3140df25ad78f/lab1/flutter.md)  
 
 
 Lab2 [Finished]
 --------
-**File**:[截图](https://github.com/zodiacVG/IntelligentMobileDevelopment/tree/master/lab2/%E6%88%AA%E5%9B%BE)
+📁**File**:lab2 [截图](https://github.com/zodiacVG/IntelligentMobileDevelopment/tree/master/lab2/%E6%88%AA%E5%9B%BE)
 
 
 Lab3 [Finished]
 --------
-**File**:[截图以及演示视频](https://github.com/zodiacVG/IntelligentMobileDevelopment/tree/master/lab3)
+📁**File**:lab3 [截图以及演示视频](https://github.com/zodiacVG/IntelligentMobileDevelopment/tree/master/lab3)
