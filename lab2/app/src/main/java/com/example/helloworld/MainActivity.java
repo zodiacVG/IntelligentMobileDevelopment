@@ -1,6 +1,7 @@
 package com.example.helloworld;
 
 import android.annotation.SuppressLint;
+import android.content.Intent;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
@@ -11,7 +12,8 @@ import android.widget.Toast;
 import androidx.appcompat.app.AppCompatActivity;
 
 public class MainActivity extends AppCompatActivity {
-
+    public static final String EXTRA_MESSAGE="num_count";
+    public static final String EXTRA_MESSAGE2="hello_string";
     private int mCount=0;
     private TextView mShowCount; //把xml里面的textview抓过来
     private Button mZeroButton;
@@ -54,5 +56,13 @@ public class MainActivity extends AppCompatActivity {
         mCount=0;
         if (mShowCount != null)
             mShowCount.setText(Integer.toString(mCount)); //textview的settext方法
+    }
+
+    public void sayHello(View view) {
+        Intent intent=new Intent(this,NewActivity.class);
+        String message=String.valueOf(mCount);
+        intent.putExtra(EXTRA_MESSAGE,message);
+        intent.putExtra(EXTRA_MESSAGE2,"Hello!");
+        startActivity(intent);
     }
 }
