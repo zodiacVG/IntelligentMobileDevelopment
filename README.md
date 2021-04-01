@@ -17,6 +17,6 @@ Lab3 [Finished]
 📁**File**:lab3 [截图以及演示视频](https://github.com/zodiacVG/IntelligentMobileDevelopment/tree/master/lab3)
 
 
-Lab4 [DOING]
+Lab4 [FINISHED]
 --------
-💻
+📁**File**:lab4 [截图及演示视频](https://github.com/zodiacVG/IntelligentMobileDevelopment/tree/master/lab4/%E6%88%AA%E5%9B%BE%E8%A7%86%E9%A2%91)
