@@ -36,11 +36,7 @@ public class MainActivity extends AppCompatActivity {
         String loc = mLocationEditText.getText().toString();
         Uri addressUri = Uri.parse("geo:0,0?q=" + loc); //geo??
         Intent intent = new Intent(Intent.ACTION_VIEW, addressUri);
-        if (intent.resolveActivity(getPackageManager()) != null) {
-            startActivity(intent);
-        } else {
-            Log.d("ImplicitIntents", "Can't handle this intent!");
-        }
+        startActivity(intent);
     }
 
     public void shareText(View view) {
