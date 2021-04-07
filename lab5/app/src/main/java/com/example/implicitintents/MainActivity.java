@@ -6,6 +6,7 @@ import androidx.core.app.ShareCompat;
 import android.content.Intent;
 import android.net.Uri;
 import android.os.Bundle;
+import android.provider.MediaStore;
 import android.util.Log;
 import android.view.View;
 import android.widget.EditText;
@@ -28,11 +29,7 @@ public class MainActivity extends AppCompatActivity {
         String url = mWebsiteEditText.getText().toString();
         Uri webpage = Uri.parse(url); //url转化为uri
         Intent intent = new Intent(Intent.ACTION_VIEW, webpage); //implicit intent的两个参数是这样传递的！
-        if (intent.resolveActivity(getPackageManager()) != null) {  //寻找可以执行这个指令的app
-            startActivity(intent);
-        }else{
-            Log.d("ImplicitIntents", "Can't handle this!");
-        }
+        startActivity(intent);
     }
 
     public void openLocation(View view) {
@@ -55,5 +52,12 @@ public class MainActivity extends AppCompatActivity {
                 .setChooserTitle(R.string.shareChoosterTitle)
                 .setText(txt)
                 .startChooser();
+    }
+
+    public void takePicture(View view) {
+        //启动系统相机
+        Intent intent = new Intent();
+        intent.setAction(MediaStore.ACTION_IMAGE_CAPTURE);
+        startActivity(intent);
     }
 }
