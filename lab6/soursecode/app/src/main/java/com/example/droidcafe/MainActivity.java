@@ -9,14 +9,18 @@ import com.google.android.material.snackbar.Snackbar;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.Toolbar;
 
+import android.util.Log;
 import android.view.View;
 
 import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.Toast;
 
-public class MainActivity extends AppCompatActivity {
+import java.util.ArrayList;
 
+public class MainActivity extends AppCompatActivity {
+    public static final String EXTRA_MESSAGE="com.example.android.Droid cafe.extra.MESSAGE";
+    public ArrayList<String> orderInfo=new ArrayList<String>();
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -28,7 +32,12 @@ public class MainActivity extends AppCompatActivity {
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intent = new Intent(MainActivity.this, OrderActivity.class);
+//                Intent intent = new Intent(MainActivity.this, OrderActivity.class);
+//                startActivity(intent);
+                Intent intent=new Intent(MainActivity.this,OrderActivity.class);
+                intent.putExtra(EXTRA_MESSAGE,orderInfo);
+                System.out.println(orderInfo);
+                System.out.println("orderinfo");
                 startActivity(intent);
             }
         });
@@ -66,6 +75,7 @@ public class MainActivity extends AppCompatActivity {
      */
     public void showDonutOrder(View view) {
         displayToast(getString(R.string.donut_order_message));
+        orderInfo.add(getString(R.string.donut_order_message));
     }
 
     /**
@@ -73,6 +83,7 @@ public class MainActivity extends AppCompatActivity {
      */
     public void showIceCreamOrder(View view) {
         displayToast(getString(R.string.ice_cream_order_message));
+        orderInfo.add(getString(R.string.ice_cream_order_message));
     }
 
     /**
@@ -80,6 +91,6 @@ public class MainActivity extends AppCompatActivity {
      */
     public void showFroyoOrder(View view) {
         displayToast(getString(R.string.froyo_order_message));
+        orderInfo.add(getString(R.string.froyo_order_message));
     }
-
 }
