@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from H:\2021SpringCourse\IntelligentMobileDevelopment\lab7\1_soursecode\DroidCafeInput\app\src\main\AndroidManifest.xml:18:1-41:12
-INJECTED from H:\2021SpringCourse\IntelligentMobileDevelopment\lab7\1_soursecode\DroidCafeInput\app\src\main\AndroidManifest.xml:18:1-41:12
-INJECTED from H:\2021SpringCourse\IntelligentMobileDevelopment\lab7\1_soursecode\DroidCafeInput\app\src\main\AndroidManifest.xml:18:1-41:12
-INJECTED from H:\2021SpringCourse\IntelligentMobileDevelopment\lab7\1_soursecode\DroidCafeInput\app\src\main\AndroidManifest.xml:18:1-41:12
+ADDED from H:\2021SpringCourse\IntelligentMobileDevelopment\lab7\1_soursecode\DroidCafeInput\app\src\main\AndroidManifest.xml:18:1-45:12
+INJECTED from H:\2021SpringCourse\IntelligentMobileDevelopment\lab7\1_soursecode\DroidCafeInput\app\src\main\AndroidManifest.xml:18:1-45:12
+INJECTED from H:\2021SpringCourse\IntelligentMobileDevelopment\lab7\1_soursecode\DroidCafeInput\app\src\main\AndroidManifest.xml:18:1-45:12
+INJECTED from H:\2021SpringCourse\IntelligentMobileDevelopment\lab7\1_soursecode\DroidCafeInput\app\src\main\AndroidManifest.xml:18:1-45:12
 MERGED from [com.android.support:design:26.1.0] C:\Users\Zodiac\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\e6af8f971965d4e227c519203af8ea01\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Zodiac\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\958914af145679375c35948f5cfb7f06\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Zodiac\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\34cd6ae12a0866d6e76c773c3f9cac67\AndroidManifest.xml:2:1-11:12
@@ -18,25 +18,25 @@ MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Zodiac\.gra
 MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Zodiac\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\769d49c96fdad39f51794e01be45e543\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Zodiac\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\c2a09c43bbe1c9f2cfb6ce3b88c77dad\AndroidManifest.xml:17:1-31:12
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Zodiac\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\7426fb748d14f10f9606ca1ca29cda60\AndroidManifest.xml:17:1-30:12
-INJECTED from H:\2021SpringCourse\IntelligentMobileDevelopment\lab7\1_soursecode\DroidCafeInput\app\src\main\AndroidManifest.xml:18:1-41:12
-INJECTED from H:\2021SpringCourse\IntelligentMobileDevelopment\lab7\1_soursecode\DroidCafeInput\app\src\main\AndroidManifest.xml:18:1-41:12
-INJECTED from H:\2021SpringCourse\IntelligentMobileDevelopment\lab7\1_soursecode\DroidCafeInput\app\src\main\AndroidManifest.xml:18:1-41:12
+INJECTED from H:\2021SpringCourse\IntelligentMobileDevelopment\lab7\1_soursecode\DroidCafeInput\app\src\main\AndroidManifest.xml:18:1-45:12
+INJECTED from H:\2021SpringCourse\IntelligentMobileDevelopment\lab7\1_soursecode\DroidCafeInput\app\src\main\AndroidManifest.xml:18:1-45:12
+INJECTED from H:\2021SpringCourse\IntelligentMobileDevelopment\lab7\1_soursecode\DroidCafeInput\app\src\main\AndroidManifest.xml:18:1-45:12
 	package
 		ADDED from H:\2021SpringCourse\IntelligentMobileDevelopment\lab7\1_soursecode\DroidCafeInput\app\src\main\AndroidManifest.xml:19:5-44
 		INJECTED from H:\2021SpringCourse\IntelligentMobileDevelopment\lab7\1_soursecode\DroidCafeInput\app\src\main\AndroidManifest.xml
 		INJECTED from H:\2021SpringCourse\IntelligentMobileDevelopment\lab7\1_soursecode\DroidCafeInput\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from H:\2021SpringCourse\IntelligentMobileDevelopment\lab7\1_soursecode\DroidCafeInput\app\src\main\AndroidManifest.xml
-		ADDED from H:\2021SpringCourse\IntelligentMobileDevelopment\lab7\1_soursecode\DroidCafeInput\app\src\main\AndroidManifest.xml:18:1-41:12
+		ADDED from H:\2021SpringCourse\IntelligentMobileDevelopment\lab7\1_soursecode\DroidCafeInput\app\src\main\AndroidManifest.xml:18:1-45:12
 		INJECTED from H:\2021SpringCourse\IntelligentMobileDevelopment\lab7\1_soursecode\DroidCafeInput\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from H:\2021SpringCourse\IntelligentMobileDevelopment\lab7\1_soursecode\DroidCafeInput\app\src\main\AndroidManifest.xml
-		ADDED from H:\2021SpringCourse\IntelligentMobileDevelopment\lab7\1_soursecode\DroidCafeInput\app\src\main\AndroidManifest.xml:18:1-41:12
+		ADDED from H:\2021SpringCourse\IntelligentMobileDevelopment\lab7\1_soursecode\DroidCafeInput\app\src\main\AndroidManifest.xml:18:1-45:12
 		INJECTED from H:\2021SpringCourse\IntelligentMobileDevelopment\lab7\1_soursecode\DroidCafeInput\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from H:\2021SpringCourse\IntelligentMobileDevelopment\lab7\1_soursecode\DroidCafeInput\app\src\main\AndroidManifest.xml:18:11-69
 application
-ADDED from H:\2021SpringCourse\IntelligentMobileDevelopment\lab7\1_soursecode\DroidCafeInput\app\src\main\AndroidManifest.xml:21:5-39:19
+ADDED from H:\2021SpringCourse\IntelligentMobileDevelopment\lab7\1_soursecode\DroidCafeInput\app\src\main\AndroidManifest.xml:21:5-43:19
 MERGED from [com.android.support:design:26.1.0] C:\Users\Zodiac\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\e6af8f971965d4e227c519203af8ea01\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:design:26.1.0] C:\Users\Zodiac\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\e6af8f971965d4e227c519203af8ea01\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Zodiac\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\958914af145679375c35948f5cfb7f06\AndroidManifest.xml:25:5-29:19
@@ -78,7 +78,7 @@ MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Zodiac\.gradle\cache
 	android:theme
 		ADDED from H:\2021SpringCourse\IntelligentMobileDevelopment\lab7\1_soursecode\DroidCafeInput\app\src\main\AndroidManifest.xml:27:9-40
 activity#com.example.android.droidcafe.MainActivity
-ADDED from H:\2021SpringCourse\IntelligentMobileDevelopment\lab7\1_soursecode\DroidCafeInput\app\src\main\AndroidManifest.xml:28:9-37:20
+ADDED from H:\2021SpringCourse\IntelligentMobileDevelopment\lab7\1_soursecode\DroidCafeInput\app\src\main\AndroidManifest.xml:28:9-36:20
 	android:label
 		ADDED from H:\2021SpringCourse\IntelligentMobileDevelopment\lab7\1_soursecode\DroidCafeInput\app\src\main\AndroidManifest.xml:30:13-45
 	android:theme
@@ -86,19 +86,29 @@ ADDED from H:\2021SpringCourse\IntelligentMobileDevelopment\lab7\1_soursecode\Dr
 	android:name
 		ADDED from H:\2021SpringCourse\IntelligentMobileDevelopment\lab7\1_soursecode\DroidCafeInput\app\src\main\AndroidManifest.xml:29:13-41
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from H:\2021SpringCourse\IntelligentMobileDevelopment\lab7\1_soursecode\DroidCafeInput\app\src\main\AndroidManifest.xml:32:13-36:29
+ADDED from H:\2021SpringCourse\IntelligentMobileDevelopment\lab7\1_soursecode\DroidCafeInput\app\src\main\AndroidManifest.xml:32:13-35:29
 action#android.intent.action.MAIN
 ADDED from H:\2021SpringCourse\IntelligentMobileDevelopment\lab7\1_soursecode\DroidCafeInput\app\src\main\AndroidManifest.xml:33:17-69
 	android:name
 		ADDED from H:\2021SpringCourse\IntelligentMobileDevelopment\lab7\1_soursecode\DroidCafeInput\app\src\main\AndroidManifest.xml:33:25-66
 category#android.intent.category.LAUNCHER
-ADDED from H:\2021SpringCourse\IntelligentMobileDevelopment\lab7\1_soursecode\DroidCafeInput\app\src\main\AndroidManifest.xml:35:17-77
+ADDED from H:\2021SpringCourse\IntelligentMobileDevelopment\lab7\1_soursecode\DroidCafeInput\app\src\main\AndroidManifest.xml:34:17-77
 	android:name
-		ADDED from H:\2021SpringCourse\IntelligentMobileDevelopment\lab7\1_soursecode\DroidCafeInput\app\src\main\AndroidManifest.xml:35:27-74
+		ADDED from H:\2021SpringCourse\IntelligentMobileDevelopment\lab7\1_soursecode\DroidCafeInput\app\src\main\AndroidManifest.xml:34:27-74
 activity#com.example.android.droidcafe.OrderActivity
-ADDED from H:\2021SpringCourse\IntelligentMobileDevelopment\lab7\1_soursecode\DroidCafeInput\app\src\main\AndroidManifest.xml:38:9-60
+ADDED from H:\2021SpringCourse\IntelligentMobileDevelopment\lab7\1_soursecode\DroidCafeInput\app\src\main\AndroidManifest.xml:37:9-42:20
+	android:parentActivityName
+		ADDED from H:\2021SpringCourse\IntelligentMobileDevelopment\lab7\1_soursecode\DroidCafeInput\app\src\main\AndroidManifest.xml:39:13-55
+	android:label
+		ADDED from H:\2021SpringCourse\IntelligentMobileDevelopment\lab7\1_soursecode\DroidCafeInput\app\src\main\AndroidManifest.xml:38:13-57
 	android:name
-		ADDED from H:\2021SpringCourse\IntelligentMobileDevelopment\lab7\1_soursecode\DroidCafeInput\app\src\main\AndroidManifest.xml:38:19-48
+		ADDED from H:\2021SpringCourse\IntelligentMobileDevelopment\lab7\1_soursecode\DroidCafeInput\app\src\main\AndroidManifest.xml:37:19-77
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from H:\2021SpringCourse\IntelligentMobileDevelopment\lab7\1_soursecode\DroidCafeInput\app\src\main\AndroidManifest.xml:40:13-41:48
+	android:value
+		ADDED from H:\2021SpringCourse\IntelligentMobileDevelopment\lab7\1_soursecode\DroidCafeInput\app\src\main\AndroidManifest.xml:41:17-46
+	android:name
+		ADDED from H:\2021SpringCourse\IntelligentMobileDevelopment\lab7\1_soursecode\DroidCafeInput\app\src\main\AndroidManifest.xml:40:24-70
 uses-sdk
 INJECTED from H:\2021SpringCourse\IntelligentMobileDevelopment\lab7\1_soursecode\DroidCafeInput\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from H:\2021SpringCourse\IntelligentMobileDevelopment\lab7\1_soursecode\DroidCafeInput\app\src\main\AndroidManifest.xml

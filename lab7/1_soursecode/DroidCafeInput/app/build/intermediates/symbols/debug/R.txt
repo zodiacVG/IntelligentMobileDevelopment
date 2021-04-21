@@ -1115,6 +1115,7 @@ int string pick_up 0x7f0d0036
 int string same_day_messenger_service 0x7f0d0037
 int string search_menu_title 0x7f0d0038
 int string status_bar_notification_info_overflow 0x7f0d0039
+int string title_activity_order 0x7f0d003a
 int style AlertDialog_AppCompat 0x7f0e0000
 int style AlertDialog_AppCompat_Light 0x7f0e0001
 int style Animation_AppCompat_Dialog 0x7f0e0002
