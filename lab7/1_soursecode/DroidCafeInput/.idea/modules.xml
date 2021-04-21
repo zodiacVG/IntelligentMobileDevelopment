@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/DroidCafeInput.iml" filepath="$PROJECT_DIR$/.idea/modules/DroidCafeInput.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DroidCafeInput.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DroidCafeInput.app.iml" />
     </modules>
   </component>
 </project>

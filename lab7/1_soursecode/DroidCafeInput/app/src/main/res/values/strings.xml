@@ -26,4 +26,10 @@
     <string name="froyo_order_message">You ordered a FroYo.</string>
     <string name="change_dessert">Change dessert</string>
     <string name="order_label_text">Order:</string>
+    <string name="name_label_text">Name</string>
+    <string name="address_text">address</string>
+    <string name="address_lable">address_lable</string>
+    <string name="same_day_messenger_service">Same day messenger service</string>
+    <string name="next_day_ground_delivery">Next day ground delivery</string>
+    <string name="pick_up">Pick up</string>
 </resources>
