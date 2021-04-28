@@ -1,5 +1,41 @@
 [
     {
+        "merged": "H:\\2021SpringCourse\\IntelligentMobileDevelopment\\lab8\\MaterialMe-Starter\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "H:\\2021SpringCourse\\IntelligentMobileDevelopment\\lab8\\MaterialMe-Starter\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "H:\\2021SpringCourse\\IntelligentMobileDevelopment\\lab8\\MaterialMe-Starter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img_swimming.jpg.flat",
+        "source": "H:\\2021SpringCourse\\IntelligentMobileDevelopment\\lab8\\MaterialMe-Starter\\app\\src\\main\\res\\drawable\\img_swimming.jpg"
+    },
+    {
+        "merged": "H:\\2021SpringCourse\\IntelligentMobileDevelopment\\lab8\\MaterialMe-Starter\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_item.xml.flat",
+        "source": "H:\\2021SpringCourse\\IntelligentMobileDevelopment\\lab8\\MaterialMe-Starter\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "H:\\2021SpringCourse\\IntelligentMobileDevelopment\\lab8\\MaterialMe-Starter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img_cycling.jpg.flat",
+        "source": "H:\\2021SpringCourse\\IntelligentMobileDevelopment\\lab8\\MaterialMe-Starter\\app\\src\\main\\res\\drawable\\img_cycling.jpg"
+    },
+    {
+        "merged": "H:\\2021SpringCourse\\IntelligentMobileDevelopment\\lab8\\MaterialMe-Starter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img_tabletennis.jpg.flat",
+        "source": "H:\\2021SpringCourse\\IntelligentMobileDevelopment\\lab8\\MaterialMe-Starter\\app\\src\\main\\res\\drawable\\img_tabletennis.jpg"
+    },
+    {
+        "merged": "H:\\2021SpringCourse\\IntelligentMobileDevelopment\\lab8\\MaterialMe-Starter\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_detail.xml.flat",
+        "source": "H:\\2021SpringCourse\\IntelligentMobileDevelopment\\lab8\\MaterialMe-Starter\\app\\src\\main\\res\\layout\\activity_detail.xml"
+    },
+    {
+        "merged": "H:\\2021SpringCourse\\IntelligentMobileDevelopment\\lab8\\MaterialMe-Starter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img_baseball.jpg.flat",
+        "source": "H:\\2021SpringCourse\\IntelligentMobileDevelopment\\lab8\\MaterialMe-Starter\\app\\src\\main\\res\\drawable\\img_baseball.jpg"
+    },
+    {
+        "merged": "H:\\2021SpringCourse\\IntelligentMobileDevelopment\\lab8\\MaterialMe-Starter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img_golf.jpg.flat",
+        "source": "H:\\2021SpringCourse\\IntelligentMobileDevelopment\\lab8\\MaterialMe-Starter\\app\\src\\main\\res\\drawable\\img_golf.jpg"
+    },
+    {
+        "merged": "H:\\2021SpringCourse\\IntelligentMobileDevelopment\\lab8\\MaterialMe-Starter\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "H:\\2021SpringCourse\\IntelligentMobileDevelopment\\lab8\\MaterialMe-Starter\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
         "merged": "H:\\2021SpringCourse\\IntelligentMobileDevelopment\\lab8\\MaterialMe-Starter\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
         "source": "H:\\2021SpringCourse\\IntelligentMobileDevelopment\\lab8\\MaterialMe-Starter\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
@@ -8,23 +44,35 @@
         "source": "H:\\2021SpringCourse\\IntelligentMobileDevelopment\\lab8\\MaterialMe-Starter\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     },
     {
-        "merged": "H:\\2021SpringCourse\\IntelligentMobileDevelopment\\lab8\\MaterialMe-Starter\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "H:\\2021SpringCourse\\IntelligentMobileDevelopment\\lab8\\MaterialMe-Starter\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+        "merged": "H:\\2021SpringCourse\\IntelligentMobileDevelopment\\lab8\\MaterialMe-Starter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img_running.jpg.flat",
+        "source": "H:\\2021SpringCourse\\IntelligentMobileDevelopment\\lab8\\MaterialMe-Starter\\app\\src\\main\\res\\drawable\\img_running.jpg"
     },
     {
-        "merged": "H:\\2021SpringCourse\\IntelligentMobileDevelopment\\lab8\\MaterialMe-Starter\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_item.xml.flat",
-        "source": "H:\\2021SpringCourse\\IntelligentMobileDevelopment\\lab8\\MaterialMe-Starter\\app\\src\\main\\res\\layout\\list_item.xml"
+        "merged": "H:\\2021SpringCourse\\IntelligentMobileDevelopment\\lab8\\MaterialMe-Starter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img_basketball.jpg.flat",
+        "source": "H:\\2021SpringCourse\\IntelligentMobileDevelopment\\lab8\\MaterialMe-Starter\\app\\src\\main\\res\\drawable\\img_basketball.jpg"
     },
     {
         "merged": "H:\\2021SpringCourse\\IntelligentMobileDevelopment\\lab8\\MaterialMe-Starter\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
         "source": "H:\\2021SpringCourse\\IntelligentMobileDevelopment\\lab8\\MaterialMe-Starter\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
+        "merged": "H:\\2021SpringCourse\\IntelligentMobileDevelopment\\lab8\\MaterialMe-Starter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img_soccer.jpg.flat",
+        "source": "H:\\2021SpringCourse\\IntelligentMobileDevelopment\\lab8\\MaterialMe-Starter\\app\\src\\main\\res\\drawable\\img_soccer.jpg"
+    },
+    {
+        "merged": "H:\\2021SpringCourse\\IntelligentMobileDevelopment\\lab8\\MaterialMe-Starter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img_badminton.jpg.flat",
+        "source": "H:\\2021SpringCourse\\IntelligentMobileDevelopment\\lab8\\MaterialMe-Starter\\app\\src\\main\\res\\drawable\\img_badminton.jpg"
+    },
+    {
+        "merged": "H:\\2021SpringCourse\\IntelligentMobileDevelopment\\lab8\\MaterialMe-Starter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img_bowling.jpg.flat",
+        "source": "H:\\2021SpringCourse\\IntelligentMobileDevelopment\\lab8\\MaterialMe-Starter\\app\\src\\main\\res\\drawable\\img_bowling.jpg"
+    },
+    {
         "merged": "H:\\2021SpringCourse\\IntelligentMobileDevelopment\\lab8\\MaterialMe-Starter\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
         "source": "H:\\2021SpringCourse\\IntelligentMobileDevelopment\\lab8\\MaterialMe-Starter\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "H:\\2021SpringCourse\\IntelligentMobileDevelopment\\lab8\\MaterialMe-Starter\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "H:\\2021SpringCourse\\IntelligentMobileDevelopment\\lab8\\MaterialMe-Starter\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+        "merged": "H:\\2021SpringCourse\\IntelligentMobileDevelopment\\lab8\\MaterialMe-Starter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img_tennis.jpg.flat",
+        "source": "H:\\2021SpringCourse\\IntelligentMobileDevelopment\\lab8\\MaterialMe-Starter\\app\\src\\main\\res\\drawable\\img_tennis.jpg"
     }
 ]

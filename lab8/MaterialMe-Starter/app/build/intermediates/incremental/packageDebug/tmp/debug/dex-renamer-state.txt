@@ -1,4 +1,4 @@
-#Wed Apr 28 16:22:57 CST 2021
+#Wed Apr 28 17:12:44 CST 2021
 base.0=H\:\\2021SpringCourse\\IntelligentMobileDevelopment\\lab8\\MaterialMe-Starter\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
