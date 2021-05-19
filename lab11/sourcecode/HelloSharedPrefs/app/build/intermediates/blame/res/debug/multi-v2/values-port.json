@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "H:\\2021SpringCourse\\IntelligentMobileDevelopment\\lab11\\sourcecode\\HelloSharedPrefs\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-port\\values-port.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Zodiac\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\7b74ef9a41410fc257907c35c670dfd7\\res\\values-port\\values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

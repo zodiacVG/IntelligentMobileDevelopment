@@ -1,0 +1,101 @@
+-- Merging decision tree log ---
+manifest
+ADDED from H:\2021SpringCourse\IntelligentMobileDevelopment\lab11\sourcecode\HelloSharedPrefs\app\src\main\AndroidManifest.xml:15:1-32:12
+INJECTED from H:\2021SpringCourse\IntelligentMobileDevelopment\lab11\sourcecode\HelloSharedPrefs\app\src\main\AndroidManifest.xml:15:1-32:12
+INJECTED from H:\2021SpringCourse\IntelligentMobileDevelopment\lab11\sourcecode\HelloSharedPrefs\app\src\main\AndroidManifest.xml:15:1-32:12
+INJECTED from H:\2021SpringCourse\IntelligentMobileDevelopment\lab11\sourcecode\HelloSharedPrefs\app\src\main\AndroidManifest.xml:15:1-32:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Zodiac\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\7b74ef9a41410fc257907c35c670dfd7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Zodiac\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\564d43efdc8e24af7e67658e17d04cc8\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Zodiac\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\46fad0fc4fa86254170f20cc66acd871\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Zodiac\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\6b8a37a53e4bbc63fe7d5ced2416e870\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Zodiac\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\ea84c0f7d4336c27671a4f4b9a75afd0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Zodiac\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\0cbdd5f624ec6050a57fd269d287d50b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Zodiac\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\86f687184606b4d4e3a6d027d27614b5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Zodiac\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\844486ed0c1964eb4a34780aa29778f7\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Zodiac\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\a106ebc5401f039f48b645da4f42bdb3\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Zodiac\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\fca66dde0a167026ab3bea5b0c2b4772\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Zodiac\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\4529c4a79e2619f10a2d13f15991b017\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Zodiac\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\ac69ecd98b69a4d22037eb2932b33ba0\AndroidManifest.xml:17:1-22:12
+INJECTED from H:\2021SpringCourse\IntelligentMobileDevelopment\lab11\sourcecode\HelloSharedPrefs\app\src\main\AndroidManifest.xml:15:1-32:12
+INJECTED from H:\2021SpringCourse\IntelligentMobileDevelopment\lab11\sourcecode\HelloSharedPrefs\app\src\main\AndroidManifest.xml:15:1-32:12
+INJECTED from H:\2021SpringCourse\IntelligentMobileDevelopment\lab11\sourcecode\HelloSharedPrefs\app\src\main\AndroidManifest.xml:15:1-32:12
+	package
+		ADDED from H:\2021SpringCourse\IntelligentMobileDevelopment\lab11\sourcecode\HelloSharedPrefs\app\src\main\AndroidManifest.xml:16:11-57
+		INJECTED from H:\2021SpringCourse\IntelligentMobileDevelopment\lab11\sourcecode\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+		INJECTED from H:\2021SpringCourse\IntelligentMobileDevelopment\lab11\sourcecode\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from H:\2021SpringCourse\IntelligentMobileDevelopment\lab11\sourcecode\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+		ADDED from H:\2021SpringCourse\IntelligentMobileDevelopment\lab11\sourcecode\HelloSharedPrefs\app\src\main\AndroidManifest.xml:15:1-32:12
+		INJECTED from H:\2021SpringCourse\IntelligentMobileDevelopment\lab11\sourcecode\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from H:\2021SpringCourse\IntelligentMobileDevelopment\lab11\sourcecode\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+		ADDED from H:\2021SpringCourse\IntelligentMobileDevelopment\lab11\sourcecode\HelloSharedPrefs\app\src\main\AndroidManifest.xml:15:1-32:12
+		INJECTED from H:\2021SpringCourse\IntelligentMobileDevelopment\lab11\sourcecode\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from H:\2021SpringCourse\IntelligentMobileDevelopment\lab11\sourcecode\HelloSharedPrefs\app\src\main\AndroidManifest.xml:15:11-69
+application
+ADDED from H:\2021SpringCourse\IntelligentMobileDevelopment\lab11\sourcecode\HelloSharedPrefs\app\src\main\AndroidManifest.xml:18:5-30:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Zodiac\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\564d43efdc8e24af7e67658e17d04cc8\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Zodiac\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\564d43efdc8e24af7e67658e17d04cc8\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from H:\2021SpringCourse\IntelligentMobileDevelopment\lab11\sourcecode\HelloSharedPrefs\app\src\main\AndroidManifest.xml:22:9-35
+	android:label
+		ADDED from H:\2021SpringCourse\IntelligentMobileDevelopment\lab11\sourcecode\HelloSharedPrefs\app\src\main\AndroidManifest.xml:21:9-41
+	android:icon
+		ADDED from H:\2021SpringCourse\IntelligentMobileDevelopment\lab11\sourcecode\HelloSharedPrefs\app\src\main\AndroidManifest.xml:20:9-43
+	android:allowBackup
+		ADDED from H:\2021SpringCourse\IntelligentMobileDevelopment\lab11\sourcecode\HelloSharedPrefs\app\src\main\AndroidManifest.xml:19:9-35
+	android:theme
+		ADDED from H:\2021SpringCourse\IntelligentMobileDevelopment\lab11\sourcecode\HelloSharedPrefs\app\src\main\AndroidManifest.xml:23:9-40
+activity#com.example.android.hellosharedprefs.MainActivity
+ADDED from H:\2021SpringCourse\IntelligentMobileDevelopment\lab11\sourcecode\HelloSharedPrefs\app\src\main\AndroidManifest.xml:24:9-29:20
+	android:name
+		ADDED from H:\2021SpringCourse\IntelligentMobileDevelopment\lab11\sourcecode\HelloSharedPrefs\app\src\main\AndroidManifest.xml:24:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from H:\2021SpringCourse\IntelligentMobileDevelopment\lab11\sourcecode\HelloSharedPrefs\app\src\main\AndroidManifest.xml:25:13-28:29
+action#android.intent.action.MAIN
+ADDED from H:\2021SpringCourse\IntelligentMobileDevelopment\lab11\sourcecode\HelloSharedPrefs\app\src\main\AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from H:\2021SpringCourse\IntelligentMobileDevelopment\lab11\sourcecode\HelloSharedPrefs\app\src\main\AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from H:\2021SpringCourse\IntelligentMobileDevelopment\lab11\sourcecode\HelloSharedPrefs\app\src\main\AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from H:\2021SpringCourse\IntelligentMobileDevelopment\lab11\sourcecode\HelloSharedPrefs\app\src\main\AndroidManifest.xml:27:27-74
+uses-sdk
+INJECTED from H:\2021SpringCourse\IntelligentMobileDevelopment\lab11\sourcecode\HelloSharedPrefs\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from H:\2021SpringCourse\IntelligentMobileDevelopment\lab11\sourcecode\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+INJECTED from H:\2021SpringCourse\IntelligentMobileDevelopment\lab11\sourcecode\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Zodiac\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\7b74ef9a41410fc257907c35c670dfd7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Zodiac\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\7b74ef9a41410fc257907c35c670dfd7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Zodiac\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\564d43efdc8e24af7e67658e17d04cc8\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Zodiac\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\564d43efdc8e24af7e67658e17d04cc8\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Zodiac\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\46fad0fc4fa86254170f20cc66acd871\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Zodiac\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\46fad0fc4fa86254170f20cc66acd871\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Zodiac\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\6b8a37a53e4bbc63fe7d5ced2416e870\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Zodiac\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\6b8a37a53e4bbc63fe7d5ced2416e870\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Zodiac\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\ea84c0f7d4336c27671a4f4b9a75afd0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Zodiac\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\ea84c0f7d4336c27671a4f4b9a75afd0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Zodiac\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\0cbdd5f624ec6050a57fd269d287d50b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Zodiac\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\0cbdd5f624ec6050a57fd269d287d50b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Zodiac\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\86f687184606b4d4e3a6d027d27614b5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Zodiac\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\86f687184606b4d4e3a6d027d27614b5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Zodiac\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\844486ed0c1964eb4a34780aa29778f7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Zodiac\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\844486ed0c1964eb4a34780aa29778f7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Zodiac\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\a106ebc5401f039f48b645da4f42bdb3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Zodiac\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\a106ebc5401f039f48b645da4f42bdb3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Zodiac\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\fca66dde0a167026ab3bea5b0c2b4772\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Zodiac\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\fca66dde0a167026ab3bea5b0c2b4772\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Zodiac\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\4529c4a79e2619f10a2d13f15991b017\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Zodiac\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\4529c4a79e2619f10a2d13f15991b017\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Zodiac\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\ac69ecd98b69a4d22037eb2932b33ba0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Zodiac\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\ac69ecd98b69a4d22037eb2932b33ba0\AndroidManifest.xml:20:5-44
+INJECTED from H:\2021SpringCourse\IntelligentMobileDevelopment\lab11\sourcecode\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+INJECTED from H:\2021SpringCourse\IntelligentMobileDevelopment\lab11\sourcecode\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from H:\2021SpringCourse\IntelligentMobileDevelopment\lab11\sourcecode\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+		ADDED from H:\2021SpringCourse\IntelligentMobileDevelopment\lab11\sourcecode\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+		INJECTED from H:\2021SpringCourse\IntelligentMobileDevelopment\lab11\sourcecode\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from H:\2021SpringCourse\IntelligentMobileDevelopment\lab11\sourcecode\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+		ADDED from H:\2021SpringCourse\IntelligentMobileDevelopment\lab11\sourcecode\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+		INJECTED from H:\2021SpringCourse\IntelligentMobileDevelopment\lab11\sourcecode\HelloSharedPrefs\app\src\main\AndroidManifest.xml
