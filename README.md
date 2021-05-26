@@ -40,3 +40,18 @@ Lab7 [Finished]
 Lab8 [Finished]
 --------
 📁**File**:lab8 [截图,代码及演示视频](https://github.com/zodiacVG/IntelligentMobileDevelopment/tree/master/lab8)
+
+
+Lab9 [Finished]
+--------
+📁**File**:lab9 [截图,代码及演示视频](https://github.com/zodiacVG/IntelligentMobileDevelopment/tree/master/lab9)
+
+
+Lab10 [Finished]
+--------
+📁**File**:lab10 [截图,代码及演示视频](https://github.com/zodiacVG/IntelligentMobileDevelopment/tree/master/lab10)
+
+
+Lab11 [Finished]
+--------
+📁**File**:lab8 [截图,代码及演示视频](https://github.com/zodiacVG/IntelligentMobileDevelopment/tree/master/lab11)
